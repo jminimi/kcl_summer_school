@@ -1,4 +1,4 @@
-,SampleID,SubjectID,Cohort,Race,preterm,Outcome,GestationalDiabeties,BMI,NumberOfPriorPregnancies,DeliveryMode,BirthWeightKg,BirthLengthCm,GDdel,AgeAtConsent
+,SampleID,SubjectID,Cohort,Race,preterm,Outcome,GestationalDiabeties,BMI,NumberOfPriorPregnancies,DeliveryMode,BirthWeightG,BirthLengthCm,GDdel,AgeAtConsent
 1,4007501238,40075,UAB,White,TRUE,Preterm,NA,NA,2,NormalSpontaneousVaginalDelivery,2575,48.5,247,24
 2,4009601198,40096,UAB,Black,TRUE,Preterm,No,34.828668,4,NormalSpontaneousVaginalDelivery,1120,38.5,195,34
 3,4006601338,40066,UAB,Black,TRUE,Preterm,NA,36.54939693,1,NormalSpontaneousVaginalDelivery,1910,44,226,23
